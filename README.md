@@ -13,9 +13,9 @@ Author:
 Technologies Used.  
     HTML and CSS  
 Live: 
-    https://htmlpreview.github.io/?https://github.com/webmarkyn/grid/blob/layout/index.html    
+    https://htmlpreview.github.io/?https://github.com/webmarkyn/micro-grid/blob/layout/index.html    
 
 Setup  
     How to setup a repo of this page on your local machine:  
     Open your git bash and cd to the location you'd like to put your files the run the command below.  
-    Git clone: git clone <https://github.com/webmarkyn/grid.git>  
+    Git clone: git clone <https://github.com/webmarkyn/micro-grid.git>  
