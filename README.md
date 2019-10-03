@@ -12,7 +12,7 @@ Source of Project
 
 Author:  
     Mark Baidebura.
-    Kyankya Raumond  
+    Kyankya Raymond  
 
 Technologies Used.  
     HTML and CSS  
