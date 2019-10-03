@@ -173,7 +173,7 @@ img.w-100 {
 }
 
 .w-100:hover {
-  border-radius: 500px;
+  border-radius: 50%;
   cursor: pointer;
 }
 
